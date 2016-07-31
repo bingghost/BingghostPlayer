@@ -8,6 +8,6 @@
 ## 
 
 ## UI
-![image](https://github.com/bingghost/BingghostPlayer/blob/master/raw/images/ui1.png)
+![image](https://github.com/bingghost/BingghostPlayer/tree/master/raw/images/ui.png)
 
-![image](https://github.com/bingghost/SimpleTetris/blob/master/raw/images/ui2.png)
+![image](https://github.com/bingghost/BingghostPlayer/tree/master/raw/images/ui2.png)
